@@ -1,3 +1,5 @@
+I created this script when I worked at **Delta** to automatically scrape data about upcoming events from a web browser and generate a spreadsheet for required inventory / delivery data. It saved *hours* of time every shift 🤣
+
 ## Dependencies
 
 ### PIP based
